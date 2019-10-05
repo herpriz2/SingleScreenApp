@@ -1,0 +1,5 @@
+https://developer.android.com/training/improving-layouts/reusing-layouts.html
+https://developer.android.com/guide/topics/resources/string-resource.html#java
+https://www.vogella.com/tutorials/AndroidStylesThemes/article.html
+https://developer.android.com/guide/topics/ui/look-and-feel/themes
+https://stackoverflow.com/questions/32860815/how-to-define-dimens-xml-for-every-different-screen-size-in-android

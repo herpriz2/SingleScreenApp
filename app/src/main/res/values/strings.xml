@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Priso Corp.</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">PRISO CORPORATION is a company specialized in the distribution of mineral water and soft drinks.</string>
+    <string name="Mon_Fri">Monday - Friday : 8 AM to 12 PM and 2 PM to 5:30 PM</string>
+    <string name="Saturday">Saturday : 8 AM to 12 PM</string>
+    <string name="location">Our shop is located in front of the Primary Public School of Bonendalè.</string>
+    <string name="email">Write us : herpriz@gmail.com</string>
+    <string name="phone_number">Call us : +237653955006</string>
+    <string name="our_contacts">Our contacts</string>
+</resources>
